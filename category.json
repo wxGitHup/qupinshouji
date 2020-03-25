@@ -1,0 +1,110 @@
+{
+    "code": "success",
+    "msg": "操作成功",
+    "data": {
+        "id": 8,
+        "name": "手机",
+        "subTags": [
+            {
+                "id": 2001,
+                "tagName": "华为",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/2088045547/O1CN01njq7jS1qqZZ39oVi1_!!2088045547.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2011,
+                "tagName": "honor/荣耀",
+                "imgUrl": "https://img.alicdn.com/imgextra/i2/1114511827/O1CN01LcpfZk1PMoCXIg1Gv_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2021,
+                "tagName": "Xiaomi/小米",
+                "imgUrl": "https://img.alicdn.com/imgextra/i2/4074774808/O1CN01g50cD41lO6sEXJHXE_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2031,
+                "tagName": "vivo",
+                "imgUrl": "https://img.alicdn.com/imgextra/i3/883737303/O1CN01fBabcb23op3ZfSwfY_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2041,
+                "tagName": "Apple/苹果",
+                "imgUrl": "https://img.alicdn.com/imgextra/i1/2204163545195/O1CN01Yts3Yd1oFM9MPQgJ4_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2051,
+                "tagName": "OPPO",
+                "imgUrl": "https://img.alicdn.com/imgextra/i2/1715164541/O1CN01oznh671jPp7hNfn6E_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2061,
+                "tagName": "三星",
+                "imgUrl": "https://img.alicdn.com/imgextra/i3/2616970884/O1CN01XCksBc1IOui79Odka_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2071,
+                "tagName": "realme",
+                "imgUrl": "https://img.alicdn.com/imgextra/i1/883737303/O1CN01Zy1yGo23op3bFzlbe_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2081,
+                "tagName": "魅族",
+                "imgUrl": "https://img.alicdn.com/imgextra/i3/2201415337596/O1CN01kCsfO825z16UbrpDg_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2091,
+                "tagName": "纽曼",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i2/2200654863079/O1CN017SR1tw1YcE2nRKrdA_!!2200654863079.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2101,
+                "tagName": "nubia/努比亚",
+                "imgUrl": "https://img.alicdn.com/imgextra/i3/2206648473910/O1CN01f2nEQT1ekpC9vKzxD_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2111,
+                "tagName": "索尼",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/2948497791/O1CN0157T0Fq27QKL0xrxZ4_!!2948497791.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2121,
+                "tagName": "联想",
+                "imgUrl": "https://img.alicdn.com/imgextra/i4/1963544026/O1CN01q4UTiV1fbx9LhNOuV_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2131,
+                "tagName": "飞利浦",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/4028858446/O1CN01Ve0qMe2CGJkThn4Zn_!!4028858446.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2141,
+                "tagName": "512MB",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/2080231551/O1CN01sDSBNZ1NKOn1WIslJ_!!2080231551.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2151,
+                "tagName": "2GB",
+                "imgUrl": "https://img.alicdn.com/imgextra/i2/1714128138/O1CN01qxR11F29zFlwmbN5k_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2161,
+                "tagName": "1GB",
+                "imgUrl": "https://img.alicdn.com/imgextra/i3/713984563/O1CN01k857sv1jZtpnu1b7Y_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2171,
+                "tagName": "GPS",
+                "imgUrl": "https://img.alicdn.com/imgextra/i3/2203822923/O1CN01ejOXu61XSmHwdJJ6X_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2181,
+                "tagName": "WIFI",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/3376511322/O1CN01il5bSc1LdWBBkDpQg_!!3376511322.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2191,
+                "tagName": "重力感应",
+                "imgUrl": "https://img.alicdn.com/imgextra/i4/725677994/O1CN017hUMJj28vIjgSZMGZ_!!0-item_pic.jpg_400x400q90.jpg"
+            }
+        ]
+    }
+}
